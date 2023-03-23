@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="180pt" height="180pt" viewBox="0 0 180 180">
+<g enable-background="new">
+<clipPath id="cp0">
+<path transform="matrix(0,-.12,-.12,-0,180,180)" d="M 0 0 L 1500 0 L 1500 1500 L 0 1500 L 0 0 "/>
+</clipPath>
+<g clip-path="url(#cp0)">
+<g id="Layer-1" data-name="0">
+<path transform="matrix(0,-.12,-.12,-0,180,180)" stroke-width="19" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#21e7c9" d="M 525 750 L 899 219 L 1274 750 L 899 1280 L 525 750 "/>
+<path transform="matrix(0,-.12,-.12,-0,180,180)" stroke-width="19" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#ff8c00" d="M 750 1253 L 731 1280 L 356 750 L 731 219 L 750 246 "/>
+<path transform="matrix(0,-.12,-.12,-0,180,180)" stroke-width="19" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#3e3117" d="M 656 1200 L 600 1280 L 225 750 L 600 219 L 656 299 "/>
+<path transform="matrix(0,-.12,-.12,-0,180,180)" stroke-width="19" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#ff8c00" d="M 824 1200 L 768 1280 L 393 750 L 768 219 L 824 299 "/>
+</g>
+</g>
+</g>
+</svg>

@@ -1,0 +1,423 @@
+,xAxis,legend,destination,booking_days,Cluster
+0,Apr,2023,Ajaccio,3.0,Corse
+1,Apr,2023,Algarve,7.0,Portugal
+2,Apr,2023,Cap Ferret,27.0,Sud-Ouest
+3,Apr,2023,Comporta,39.0,Portugal
+4,Apr,2023,Courchevel 1550 Le Village,38.0,Alpes LC
+5,Apr,2023,Courchevel 1650 Moriond,7.0,Alpes LC
+6,Apr,2023,Courchevel 1850,35.0,Alpes LC
+7,Apr,2023,Deauville,20.0,ROF
+8,Apr,2023,Eygalières & environs,5.0,Provence
+9,Apr,2023,Gordes & alentours,11.0,Provence
+10,Apr,2023,Guéthary & environs,7.0,Sud-Ouest
+11,Apr,2023,Ile Maurice,1.0,ROF
+12,Apr,2023,La Croix-Valmer,3.0,French Riviera
+13,Apr,2023,La Manche,14.0,ROF
+14,Apr,2023,Le Salento,10.0,Italie
+15,Apr,2023,Lourmarin & alentours,7.0,Provence
+16,Apr,2023,Marrakech,26.0,ROW
+17,Apr,2023,Maussane-les-Alpilles et alentours,7.0,Provence
+18,Apr,2023,Megève,13.0,Alpes LC
+19,Apr,2023,Mykonos,7.0,Grèce
+20,Apr,2023,Méribel,29.0,Alpes LC
+21,Apr,2023,Oppède,14.0,Provence
+22,Apr,2023,Paris,27.0,ROF
+23,Apr,2023,Propriano,2.0,Corse
+24,Apr,2023,Province de Bari,4.0,Italie
+25,Apr,2023,Province de Pise,7.0,Italie
+26,Apr,2023,Province de Sienne,7.0,Italie
+27,Apr,2023,Pérouse,5.0,Italie
+28,Apr,2023,Région de Porto-Vecchio,20.0,Corse
+29,Apr,2023,Saint-Barthélémy,20.0,ROW
+30,Apr,2023,Saint-Jean-de-Luz,2.0,Sud-Ouest
+31,Apr,2023,Saint-Rémy-de-Provence & environs,14.0,Provence
+32,Apr,2023,Sardaigne,16.0,Italie
+33,Apr,2023,Trouville,23.0,ROF
+34,Apr,2023,Val d'Isère,7.0,Alpes LC
+35,Aug,2023,Aix-en-Provence & environs,35.0,Provence
+36,Aug,2023,Ajaccio,68.0,Corse
+37,Aug,2023,Algarve,65.0,Portugal
+38,Aug,2023,Anglet,14.0,Sud-Ouest
+39,Aug,2023,Antiparos,39.0,Grèce
+40,Aug,2023,Arcachon,14.0,Sud-Ouest
+41,Aug,2023,Arles & la Camargue,13.0,Provence
+42,Aug,2023,Athènes Riviera,7.0,Grèce
+43,Aug,2023,Avignon,14.0,Provence
+44,Aug,2023,Bandol,12.0,French Riviera
+45,Aug,2023,Bidart et environs,13.0,Sud-Ouest
+46,Aug,2023,Biscarrosse,7.0,ROF
+47,Aug,2023,Bonifacio,11.0,Corse
+48,Aug,2023,Bormes-les-Mimosas,7.0,French Riviera
+49,Aug,2023,Calvi,49.0,Corse
+50,Aug,2023,Cap Corse,7.0,Corse
+51,Aug,2023,Cap Ferret,470.0,Sud-Ouest
+52,Aug,2023,Capri & Anacapri,6.0,Italie
+53,Aug,2023,Cassis,21.0,Provence
+54,Aug,2023,Chamonix,11.0,Alpes LC
+55,Aug,2023,Comporta,197.0,Portugal
+56,Aug,2023,Corfou,70.0,Grèce
+57,Aug,2023,Crète,17.0,Grèce
+58,Aug,2023,Deauville,52.0,ROF
+59,Aug,2023,Dordogne - Périgord,8.0,ROF
+60,Aug,2023,Dubrovnik & alentours,11.0,ROW
+61,Aug,2023,Environs de Bordeaux,14.0,Sud-Ouest
+62,Aug,2023,Eygalières & environs,32.0,Provence
+63,Aug,2023,Finistère,14.0,ROF
+64,Aug,2023,Gassin,32.0,French Riviera
+65,Aug,2023,Gordes & alentours,94.0,Provence
+66,Aug,2023,Grimaud,29.0,French Riviera
+67,Aug,2023,Guéthary & environs,14.0,Sud-Ouest
+68,Aug,2023,Hendaye et environs,11.0,Sud-Ouest
+69,Aug,2023,Hossegor & environs,14.0,Sud-Ouest
+70,Aug,2023,Ile Rousse,11.0,Corse
+71,Aug,2023,Ile de Ré,55.0,ROF
+72,Aug,2023,Kalamata et environs,7.0,Grèce
+73,Aug,2023,L'isle-sur-la-Sorgue,25.0,
+74,Aug,2023,La Croix-Valmer,64.0,French Riviera
+75,Aug,2023,Lac de Côme,11.0,Italie
+76,Aug,2023,Le Salento,14.0,Italie
+77,Aug,2023,Lisbonne & alentours,4.0,Portugal
+78,Aug,2023,Lourmarin & alentours,11.0,Provence
+79,Aug,2023,Marseille,7.0,Provence
+80,Aug,2023,Maussane-les-Alpilles et alentours,11.0,Provence
+81,Aug,2023,Milos,11.0,Grèce
+82,Aug,2023,Mykonos,22.0,Grèce
+83,Aug,2023,Oppède,14.0,Provence
+84,Aug,2023,Paris,4.0,ROF
+85,Aug,2023,Paros,79.0,Grèce
+86,Aug,2023,Porto Heli,7.0,Grèce
+87,Aug,2023,Positano,14.0,Italie
+88,Aug,2023,Pramousquier,11.0,French Riviera
+89,Aug,2023,Presqu'ile Saint-Tropez,48.0,French Riviera
+90,Aug,2023,Propriano,4.0,Corse
+91,Aug,2023,Province de Bari,7.0,Italie
+92,Aug,2023,Province de Lucques,14.0,Italie
+93,Aug,2023,Province de Sienne,21.0,Italie
+94,Aug,2023,Pyla-sur-Mer,38.0,Sud-Ouest
+95,Aug,2023,Ramatuelle,71.0,French Riviera
+96,Aug,2023,Ravello,18.0,Italie
+97,Aug,2023,Région de Porto-Vecchio,193.0,Corse
+98,Aug,2023,Saint-Jean-de-Luz,14.0,Sud-Ouest
+99,Aug,2023,Saint-Rémy-de-Provence & environs,106.0,Provence
+100,Aug,2023,Sainte-Maxime,49.0,French Riviera
+101,Aug,2023,Sanary,11.0,French Riviera
+102,Aug,2023,Sicile,25.0,Italie
+103,Aug,2023,Sifnos,72.0,Grèce
+104,Aug,2023,Sintra,14.0,Portugal
+105,Aug,2023,Split & alentours,25.0,ROW
+106,Aug,2023,Terres du Calvados,7.0,ROF
+107,Aug,2023,Trouville,44.0,ROF
+108,Dec,2023,Marrakech,7.0,ROW
+109,Dec,2023,Méribel,7.0,Alpes LC
+110,Feb,2023,Aix-en-Provence & environs,2.0,Provence
+111,Feb,2023,Algarve,5.0,Portugal
+112,Feb,2023,Chamonix,2.0,Alpes LC
+113,Feb,2023,Combloux,14.0,Alpes LC
+114,Feb,2023,Comporta,28.0,Portugal
+115,Feb,2023,Costa Rica,7.0,ROW
+116,Feb,2023,Courchevel 1550 Le Village,391.0,Alpes LC
+117,Feb,2023,Courchevel 1650 Moriond,98.0,Alpes LC
+118,Feb,2023,Courchevel 1850,121.0,Alpes LC
+119,Feb,2023,Courchevel Le Praz,3.0,Alpes LC
+120,Feb,2023,Deauville,3.0,ROF
+121,Feb,2023,Finistère,2.0,ROF
+122,Feb,2023,Florence,4.0,Italie
+123,Feb,2023,Lech,7.0,Alpes Autrichienne
+124,Feb,2023,Lourmarin & alentours,7.0,Provence
+125,Feb,2023,Marrakech,27.0,ROW
+126,Feb,2023,Megève,292.0,Alpes LC
+127,Feb,2023,Morzine,7.0,Alpes LC
+128,Feb,2023,Méribel,289.0,Alpes LC
+129,Feb,2023,Notre-Dame-de-Bellecombe et environs,11.0,Alpes LC
+130,Feb,2023,Paris,34.0,ROF
+131,Feb,2023,Perche,1.0,ROF
+132,Feb,2023,Saint-Gervais-les-Bains,21.0,Alpes LC
+133,Feb,2023,Saint-Rémy-de-Provence & environs,3.0,Provence
+134,Feb,2023,Sanary,28.0,French Riviera
+135,Feb,2023,Sankt Anton,7.0,Alpes Autrichienne
+136,Feb,2023,Tignes,28.0,Alpes LC
+137,Feb,2023,Val d'Isère,73.0,Alpes LC
+138,Feb,2023,Verbier,14.0,Alpes LC
+139,Feb,2023,Zermatt,7.0,Alpes LC
+140,Jan,2023,Algarve,4.0,Portugal
+141,Jan,2023,Cap Ferret,4.0,Sud-Ouest
+142,Jan,2023,Chamonix,9.0,Alpes LC
+143,Jan,2023,Combloux,8.0,Alpes LC
+144,Jan,2023,Comporta,37.0,Portugal
+145,Jan,2023,Costa Rica,5.0,ROW
+146,Jan,2023,Courchevel 1550 Le Village,316.0,Alpes LC
+147,Jan,2023,Courchevel 1650 Moriond,91.0,Alpes LC
+148,Jan,2023,Courchevel 1850,168.0,Alpes LC
+149,Jan,2023,Courchevel Le Praz,31.0,Alpes LC
+150,Jan,2023,Deauville,7.0,ROF
+151,Jan,2023,Eygalières & environs,1.0,Provence
+152,Jan,2023,Hendaye et environs,2.0,Sud-Ouest
+153,Jan,2023,Les Houches,7.0,Alpes LC
+154,Jan,2023,Marrakech,32.0,ROW
+155,Jan,2023,Maussane-les-Alpilles et alentours,2.0,Provence
+156,Jan,2023,Megève,186.0,Alpes LC
+157,Jan,2023,Méribel,221.0,Alpes LC
+158,Jan,2023,Notre-Dame-de-Bellecombe et environs,12.0,Alpes LC
+159,Jan,2023,Paris,54.0,ROF
+160,Jan,2023,Province de Bari,2.0,Italie
+161,Jan,2023,Rougemont,1.0,Alpes LC
+162,Jan,2023,Saint-Gervais-les-Bains,7.0,Alpes LC
+163,Jan,2023,Sanary,31.0,French Riviera
+164,Jan,2023,Terres du Calvados,1.0,ROF
+165,Jan,2023,Val d'Isère,100.0,Alpes LC
+166,Jan,2023,Verbier,29.0,Alpes LC
+167,Jul,2023,Aix-en-Provence & environs,46.0,Provence
+168,Jul,2023,Ajaccio,62.0,Corse
+169,Jul,2023,Algarve,35.0,Portugal
+170,Jul,2023,Antiparos,45.0,Grèce
+171,Jul,2023,Arles & la Camargue,14.0,Provence
+172,Jul,2023,Avignon,29.0,Provence
+173,Jul,2023,Bandol,2.0,French Riviera
+174,Jul,2023,Biarritz,21.0,Sud-Ouest
+175,Jul,2023,Bidart et environs,14.0,Sud-Ouest
+176,Jul,2023,Bonifacio,45.0,Corse
+177,Jul,2023,Bonnieux et alentours,7.0,Provence
+178,Jul,2023,Calvi,20.0,Corse
+179,Jul,2023,Cannes,7.0,French Riviera
+180,Jul,2023,Cap Ferret,424.0,Sud-Ouest
+181,Jul,2023,Cap d'Antibes,7.0,French Riviera
+182,Jul,2023,Cassis,21.0,Provence
+183,Jul,2023,Chamonix,3.0,Alpes LC
+184,Jul,2023,Comporta,103.0,Portugal
+185,Jul,2023,Corfou,57.0,Grèce
+186,Jul,2023,Crète,25.0,Grèce
+187,Jul,2023,Deauville,35.0,ROF
+188,Jul,2023,Dordogne - Périgord,27.0,ROF
+189,Jul,2023,Dubrovnik & alentours,17.0,ROW
+190,Jul,2023,Eygalières & environs,24.0,Provence
+191,Jul,2023,Florence,14.0,Italie
+192,Jul,2023,Gassin,45.0,French Riviera
+193,Jul,2023,Gordes & alentours,34.0,Provence
+194,Jul,2023,Grimaud,27.0,French Riviera
+195,Jul,2023,Hendaye et environs,10.0,Sud-Ouest
+196,Jul,2023,Ile Rousse,10.0,Corse
+197,Jul,2023,Ile de Ré,13.0,ROF
+198,Jul,2023,L'isle-sur-la-Sorgue,24.0,
+199,Jul,2023,La Croix-Valmer,48.0,French Riviera
+200,Jul,2023,La Manche,11.0,ROF
+201,Jul,2023,Lac de Côme,3.0,Italie
+202,Jul,2023,Le Salento,22.0,Italie
+203,Jul,2023,Lefkada,14.0,Grèce
+204,Jul,2023,Les Abruzzes,7.0,Italie
+205,Jul,2023,Lisbonne & alentours,10.0,Portugal
+206,Jul,2023,Lourmarin & alentours,24.0,Provence
+207,Jul,2023,Maussane-les-Alpilles et alentours,38.0,Provence
+208,Jul,2023,Melides et environs,7.0,Portugal
+209,Jul,2023,Menerbes et alentours,7.0,Provence
+210,Jul,2023,Milos,3.0,Grèce
+211,Jul,2023,Mykonos,20.0,Grèce
+212,Jul,2023,Oppède,20.0,Provence
+213,Jul,2023,Paris,30.0,ROF
+214,Jul,2023,Paros,45.0,Grèce
+215,Jul,2023,Patmos,7.0,Grèce
+216,Jul,2023,Pramousquier,3.0,French Riviera
+217,Jul,2023,Presqu'ile Saint-Tropez,99.0,French Riviera
+218,Jul,2023,Propriano,24.0,Corse
+219,Jul,2023,Province de Bari,62.0,Italie
+220,Jul,2023,Province de Grosseto,7.0,Italie
+221,Jul,2023,Province de Lucques,7.0,Italie
+222,Jul,2023,Province de Pise,7.0,Italie
+223,Jul,2023,Province de Sienne,58.0,Italie
+224,Jul,2023,Pyla-sur-Mer,22.0,Sud-Ouest
+225,Jul,2023,Ramatuelle,154.0,French Riviera
+226,Jul,2023,Ravello,3.0,Italie
+227,Jul,2023,Région de Porto-Vecchio,107.0,Corse
+228,Jul,2023,Saint-Jean-de-Luz,42.0,Sud-Ouest
+229,Jul,2023,Saint-Paul-de-Vence,7.0,French Riviera
+230,Jul,2023,Saint-Rémy-de-Provence & environs,131.0,Provence
+231,Jul,2023,Sainte-Maxime,20.0,French Riviera
+232,Jul,2023,Sanary,10.0,French Riviera
+233,Jul,2023,Sardaigne,35.0,Italie
+234,Jul,2023,Sicile,10.0,Italie
+235,Jul,2023,Sifnos,48.0,Grèce
+236,Jul,2023,Split & alentours,10.0,ROW
+237,Jul,2023,Trouville,38.0,ROF
+238,Jul,2023,Villefranche-sur-Mer,2.0,French Riviera
+239,Jul,2023,Zante,7.0,Grèce
+240,Jun,2023,Aix-en-Provence & environs,30.0,Provence
+241,Jun,2023,Ajaccio,28.0,Corse
+242,Jun,2023,Algarve,18.0,Portugal
+243,Jun,2023,Antiparos,2.0,Grèce
+244,Jun,2023,Arles & la Camargue,7.0,Provence
+245,Jun,2023,Avignon,14.0,Provence
+246,Jun,2023,Biarritz,23.0,Sud-Ouest
+247,Jun,2023,Bonifacio,7.0,Corse
+248,Jun,2023,Calvi,14.0,Corse
+249,Jun,2023,Cannes,7.0,French Riviera
+250,Jun,2023,Cap Ferret,24.0,Sud-Ouest
+251,Jun,2023,Cap d'Antibes,44.0,French Riviera
+252,Jun,2023,Cassis,9.0,Provence
+253,Jun,2023,Comporta,59.0,Portugal
+254,Jun,2023,Corfou,32.0,Grèce
+255,Jun,2023,Crète,9.0,Grèce
+256,Jun,2023,Deauville,12.0,ROF
+257,Jun,2023,Dubrovnik & alentours,6.0,ROW
+258,Jun,2023,Eygalières & environs,21.0,Provence
+259,Jun,2023,Florence,23.0,Italie
+260,Jun,2023,Gassin,14.0,French Riviera
+261,Jun,2023,Gordes & alentours,11.0,Provence
+262,Jun,2023,Grimaud,23.0,French Riviera
+263,Jun,2023,Ios,5.0,Grèce
+264,Jun,2023,Juan-les-Pins,7.0,French Riviera
+265,Jun,2023,La Croix-Valmer,11.0,French Riviera
+266,Jun,2023,La Manche,3.0,ROF
+267,Jun,2023,Le Salento,7.0,Italie
+268,Jun,2023,Lisbonne & alentours,21.0,Portugal
+269,Jun,2023,Lourmarin & alentours,3.0,Provence
+270,Jun,2023,Marrakech,18.0,ROW
+271,Jun,2023,Maussane-les-Alpilles et alentours,58.0,Provence
+272,Jun,2023,Melides et environs,7.0,Portugal
+273,Jun,2023,Menerbes et alentours,7.0,Provence
+274,Jun,2023,Milos,7.0,Grèce
+275,Jun,2023,Mykonos,7.0,Grèce
+276,Jun,2023,Oppède,7.0,Provence
+277,Jun,2023,Paris,24.0,ROF
+278,Jun,2023,Paros,18.0,Grèce
+279,Jun,2023,Pianottoli-Caldarello,14.0,Corse
+280,Jun,2023,Presqu'ile Saint-Tropez,59.0,French Riviera
+281,Jun,2023,Province de Bari,85.0,Italie
+282,Jun,2023,Province de Lucques,12.0,Italie
+283,Jun,2023,Province de Sienne,28.0,Italie
+284,Jun,2023,Punta Cana,2.0,ROW
+285,Jun,2023,Pyla-sur-Mer,7.0,Sud-Ouest
+286,Jun,2023,Ramatuelle,56.0,French Riviera
+287,Jun,2023,Région de Porto-Vecchio,37.0,Corse
+288,Jun,2023,Saint-Paul-de-Vence,21.0,French Riviera
+289,Jun,2023,Saint-Rémy-de-Provence & environs,58.0,Provence
+290,Jun,2023,Sainte-Maxime,14.0,French Riviera
+291,Jun,2023,Sardaigne,30.0,Italie
+292,Jun,2023,Sicile,12.0,Italie
+293,Jun,2023,Sifnos,21.0,Grèce
+294,Jun,2023,Sintra,5.0,Portugal
+295,Jun,2023,Split & alentours,7.0,ROW
+296,Jun,2023,Terres du Calvados,3.0,ROF
+297,Jun,2023,Trouville,15.0,ROF
+298,Jun,2023,Villefranche-sur-Mer,14.0,French Riviera
+299,Mar,2023,Aix-en-Provence & environs,2.0,Provence
+300,Mar,2023,Algarve,3.0,Portugal
+301,Mar,2023,Cape Town & surroundings,6.0,ROW
+302,Mar,2023,Cascais,8.0,Portugal
+303,Mar,2023,Cassis,2.0,Provence
+304,Mar,2023,Chamonix,7.0,Alpes LC
+305,Mar,2023,Comporta,43.0,Portugal
+306,Mar,2023,Courchevel 1550 Le Village,214.0,Alpes LC
+307,Mar,2023,Courchevel 1650 Moriond,91.0,Alpes LC
+308,Mar,2023,Courchevel 1850,87.0,Alpes LC
+309,Mar,2023,Courchevel Le Praz,14.0,Alpes LC
+310,Mar,2023,Deauville,4.0,ROF
+311,Mar,2023,Florence,1.0,Italie
+312,Mar,2023,Ile Maurice,7.0,ROF
+313,Mar,2023,Marrakech,15.0,ROW
+314,Mar,2023,Megève,130.0,Alpes LC
+315,Mar,2023,Méribel,180.0,Alpes LC
+316,Mar,2023,Notre-Dame-de-Bellecombe et environs,3.0,Alpes LC
+317,Mar,2023,Paris,36.0,ROF
+318,Mar,2023,Saint-Barthélémy,7.0,ROW
+319,Mar,2023,Saint-Gervais-les-Bains,8.0,Alpes LC
+320,Mar,2023,Saint-Martin,6.0,ROW
+321,Mar,2023,Saint-Rémy-de-Provence & environs,4.0,Provence
+322,Mar,2023,Sanary,20.0,French Riviera
+323,Mar,2023,Tignes,7.0,Alpes LC
+324,Mar,2023,Val d'Isère,39.0,Alpes LC
+325,May,2023,Aix-en-Provence & environs,6.0,Provence
+326,May,2023,Algarve,15.0,Portugal
+327,May,2023,Antiparos,3.0,Grèce
+328,May,2023,Avignon,4.0,Provence
+329,May,2023,Biarritz,7.0,Sud-Ouest
+330,May,2023,Cap Ferret,27.0,Sud-Ouest
+331,May,2023,Cap d'Antibes,13.0,French Riviera
+332,May,2023,Cassis,12.0,Provence
+333,May,2023,Comporta,84.0,Portugal
+334,May,2023,Corfou,7.0,Grèce
+335,May,2023,Crète,10.0,Grèce
+336,May,2023,Côte d'Emeraude,3.0,ROF
+337,May,2023,Deauville,11.0,ROF
+338,May,2023,Dubrovnik & alentours,5.0,ROW
+339,May,2023,Eygalières & environs,3.0,Provence
+340,May,2023,Florence,19.0,Italie
+341,May,2023,Gordes & alentours,22.0,Provence
+342,May,2023,Grimaud,14.0,French Riviera
+343,May,2023,Ile Rousse,7.0,Corse
+344,May,2023,La Croix-Valmer,4.0,French Riviera
+345,May,2023,Le Salento,5.0,Italie
+346,May,2023,Lisbonne & alentours,7.0,Portugal
+347,May,2023,Lourmarin & alentours,2.0,Provence
+348,May,2023,Marrakech,8.0,ROW
+349,May,2023,Marseille,4.0,Provence
+350,May,2023,Maussane-les-Alpilles et alentours,24.0,Provence
+351,May,2023,Megève,4.0,Alpes LC
+352,May,2023,Paris,23.0,ROF
+353,May,2023,Paros,10.0,Grèce
+354,May,2023,Positano,10.0,Italie
+355,May,2023,Propriano,5.0,Corse
+356,May,2023,Province de Bari,19.0,Italie
+357,May,2023,Province de Lucques,10.0,Italie
+358,May,2023,Province de Pise,5.0,Italie
+359,May,2023,Punta Cana,5.0,ROW
+360,May,2023,Pyla-sur-Mer,8.0,Sud-Ouest
+361,May,2023,Pérouse,2.0,Italie
+362,May,2023,Région de Porto-Vecchio,5.0,Corse
+363,May,2023,Saint-Barthélémy,25.0,ROW
+364,May,2023,Saint-Jean-de-Luz,5.0,Sud-Ouest
+365,May,2023,Saint-Rémy-de-Provence & environs,21.0,Provence
+366,May,2023,Sardaigne,5.0,Italie
+367,May,2023,Sicile,18.0,Italie
+368,May,2023,Split & alentours,6.0,ROW
+369,May,2023,Trouville,5.0,ROF
+370,May,2023,Villefranche-sur-Mer,3.0,French Riviera
+371,Nov,2023,Algarve,3.0,Portugal
+372,Oct,2023,Algarve,10.0,Portugal
+373,Oct,2023,Cassis,7.0,Provence
+374,Oct,2023,Crète,8.0,Grèce
+375,Oct,2023,L'isle-sur-la-Sorgue,15.0,
+376,Oct,2023,Marrakech,7.0,ROW
+377,Oct,2023,Perche,14.0,ROF
+378,Oct,2023,Presqu'ile Saint-Tropez,8.0,French Riviera
+379,Oct,2023,Saint-Barthélémy,12.0,ROW
+380,Oct,2023,Saint-Rémy-de-Provence & environs,13.0,Provence
+381,Sep,2023,Aix-en-Provence & environs,1.0,Provence
+382,Sep,2023,Ajaccio,1.0,Corse
+383,Sep,2023,Algarve,3.0,Portugal
+384,Sep,2023,Arles & la Camargue,1.0,Provence
+385,Sep,2023,Athènes Riviera,7.0,Grèce
+386,Sep,2023,Avignon,2.0,Provence
+387,Sep,2023,Bidart et environs,1.0,Sud-Ouest
+388,Sep,2023,Calvi,1.0,Corse
+389,Sep,2023,Cannes,15.0,French Riviera
+390,Sep,2023,Cap Ferret,34.0,Sud-Ouest
+391,Sep,2023,Capri & Anacapri,1.0,Italie
+392,Sep,2023,Cassis,15.0,Provence
+393,Sep,2023,Comporta,13.0,Portugal
+394,Sep,2023,Corfou,14.0,Grèce
+395,Sep,2023,Crète,8.0,Grèce
+396,Sep,2023,Deauville,10.0,ROF
+397,Sep,2023,Gordes & alentours,2.0,Provence
+398,Sep,2023,Grimaud,7.0,French Riviera
+399,Sep,2023,Ile de Ré,2.0,ROF
+400,Sep,2023,Le Salento,7.0,Italie
+401,Sep,2023,Les Houches,4.0,Alpes LC
+402,Sep,2023,Marrakech,12.0,ROW
+403,Sep,2023,Marseille,12.0,Provence
+404,Sep,2023,Maussane-les-Alpilles et alentours,35.0,Provence
+405,Sep,2023,Oppède,7.0,Provence
+406,Sep,2023,Paros,9.0,Grèce
+407,Sep,2023,Porto Heli,6.0,Grèce
+408,Sep,2023,Positano,20.0,Italie
+409,Sep,2023,Presqu'ile Saint-Tropez,4.0,French Riviera
+410,Sep,2023,Province de Bari,15.0,Italie
+411,Sep,2023,Province de Lucques,7.0,Italie
+412,Sep,2023,Province de Sienne,11.0,Italie
+413,Sep,2023,Pyla-sur-Mer,1.0,Sud-Ouest
+414,Sep,2023,Ramatuelle,7.0,French Riviera
+415,Sep,2023,Région de Porto-Vecchio,8.0,Corse
+416,Sep,2023,Saint-Rémy-de-Provence & environs,10.0,Provence
+417,Sep,2023,Sainte-Maxime,8.0,French Riviera
+418,Sep,2023,Sanary,7.0,French Riviera
+419,Sep,2023,Sicile,16.0,Italie
+420,Sep,2023,Sifnos,1.0,Grèce
+421,Sep,2023,Trouville,8.0,ROF
